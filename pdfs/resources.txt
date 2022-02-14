@@ -1,0 +1,9 @@
+1. Functional Programming with Java 8 by Venkat Subramaniam
+https://www.youtube.com/watch?v=15X0qFtBqiQ&t=1270s
+
+2. Lambdas and Streams Master Class Part 1 José Paumard, Stuart Marks voxxed
+https://www.youtube.com/watch?v=ePXnCezwRuw
+
+Slides of last talk https://www.slideshare.net/jpaumard/lambda-and-stream-master-class-part-1
+
+80+ Exercises https://github.com/JosePaumard/lambda-master-class-part1
